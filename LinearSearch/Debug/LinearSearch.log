@@ -1,0 +1,8 @@
+﻿  LinearSearch.cpp
+C:\Users\AndersHägglund\source\repos\Assignments_C++\LinearSearch\LinearSearch.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AndersHägglund\source\repos\Assignments_C++\LinearSearch\LinearSearch.cpp(36): message : see reference to function template instantiation 'std::string findPositions<int,14>(int,T (&)[14])' being compiled
+          with
+          [
+              T=int
+          ]
+  LinearSearch.vcxproj -> C:\Users\AndersHägglund\source\repos\Assignments_C++\Debug\LinearSearch.exe

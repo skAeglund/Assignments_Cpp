@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignments_C++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  numbers.cpp
+C:\Users\AndersHägglund\source\repos\Assignments_C++\Assignments_C++\numbers.cpp(19,66): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\AndersHägglund\source\repos\Assignments_C++\Assignments_C++\numbers.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  Assignments_C++.vcxproj -> C:\Users\AndersHägglund\source\repos\Assignments_C++\Debug\EvenOrOdd_LastDigit_PrintSeperated.exe
